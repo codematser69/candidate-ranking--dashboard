@@ -189,4 +189,4 @@ AI tools were used during development for code review, architectural discussion,
 
 ---
 
-*Team submission for the Redrob AI Hackathon 2026. See `submission_metadata.yaml` for team details, sandbox link, and reproduction instructions.*
+
